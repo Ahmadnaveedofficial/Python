@@ -1,0 +1,11 @@
+Order_ID,Customer_Name,Product,Category,Quantity,Price_Per_Unit,City,Total_Amount
+101,Ali,Laptop,Electronics,1,120000,Lahore,120000
+102,Sara,Mouse,Accessories,3,1500,Karachi,4500
+103,Ahmed,Keyboard,Accessories,2,3500,Islamabad,7000
+104,Ayesha,Monitor,Electronics,1,45000,Lahore,45000
+105,Usman,Laptop,Electronics,1,118000,Faisalabad,118000
+106,Hina,Headphones,Accessories,2,7000,Karachi,14000
+107,Bilal,Mouse,Accessories,5,1400,Lahore,7000
+108,Zara,Keyboard,Accessories,1,3200,Islamabad,3200
+109,Hamza,Monitor,Electronics,2,46000,Multan,92000
+110,Noor,Laptop,Electronics,1,125000,Lahore,125000
